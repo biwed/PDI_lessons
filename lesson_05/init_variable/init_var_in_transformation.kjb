@@ -383,7 +383,7 @@ test_val = ${test_val}
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>272</xloc>
+      <xloc>256</xloc>
       <yloc>80</yloc>
       <attributes_kjc/>
     </entry>

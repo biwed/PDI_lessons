@@ -338,7 +338,7 @@
       <logmessage>--------------------------
 Level root
 
-GLOBAL_VAR = {GLOBAL_VAR}
+GLOBAL_VAR = ${GLOBAL_VAR}
 --------------------------</logmessage>
       <loglevel>Basic</loglevel>
       <logsubject/>
