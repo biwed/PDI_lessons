@@ -1,0 +1,4 @@
+mkfifo named-pipe
+seq 1 15000 > named-pipe
+cat named-pipe
+rm named-pipe
